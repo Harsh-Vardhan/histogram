@@ -1,0 +1,2 @@
+This program is used to generate a set of random integers in a user-specified range.
+They are stored in a file values.txt, which is used for the execution of program histogram.c.

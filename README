@@ -1,0 +1,12 @@
+/*
+ * Author:	Harsh Vardhan
+ * Date:	Sep 24, 2012
+ */
+
+The program "histogram.c" reads a set of values, in the range specified by 
+user, from a file 'values.txt' and generates the frequency table and 
+histogram for datapoints requested by the user.
+
+The program also outputs all values scanned to get the requisite sample size 
+to a file 'scanned_values.txt' and all matching values found to 
+'valid_values.txt' to test the program's correctness.
