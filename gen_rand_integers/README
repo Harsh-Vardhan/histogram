@@ -1,2 +1,2 @@
 This program is used to generate a set of random integers in a user-specified range.
-It outputs to a file 'values.txt', which provides the program a universal set of values to take a sample at runtime.
+It outputs to a file 'values.txt', which provides the program 'histogram.c' a universal set of values to take a sample at runtime.
